@@ -1,2 +1,2 @@
 # scd-tokenlist
-Official Token List for ShikChiposh Dollar (SCD) on Polygon.
+Official Token List for ShikChiposh (SCD) on Polygon.
